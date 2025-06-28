@@ -1,0 +1,13 @@
+--- Stock Checker Log Started: 2025-06-28 12:14:05.359624 ---
+[2025-06-28 12:14:05.359624] [MainClient] Memulai 5 pengecekan stok produk secara concurrent.
+[2025-06-28 12:14:05.360572] [Worker-0] Memulai pengecekan untuk SKU: SKU-001
+[2025-06-28 12:14:05.361572] [Worker-0] Selesai pengecekan untuk SKU: SKU-001
+[2025-06-28 12:14:05.361572] [Worker-1] Memulai pengecekan untuk SKU: SKU-003
+[2025-06-28 12:14:05.362572] [Worker-2] Memulai pengecekan untuk SKU: SKU-999
+[2025-06-28 12:14:05.362572] [Worker-3] Memulai pengecekan untuk SKU: SKU-002
+[2025-06-28 12:14:05.362572] [Worker-4] Memulai pengecekan untuk SKU: SKU-004
+[2025-06-28 12:14:05.364573] [Worker-1] Selesai pengecekan untuk SKU: SKU-003
+[2025-06-28 12:14:05.364573] [Worker-2] Selesai pengecekan untuk SKU: SKU-999
+[2025-06-28 12:14:05.364573] [Worker-3] Selesai pengecekan untuk SKU: SKU-002
+[2025-06-28 12:14:05.364573] [Worker-4] Selesai pengecekan untuk SKU: SKU-004
+[2025-06-28 12:14:05.364573] [MainClient] Semua pengecekan stok selesai dalam 0.00 detik.
